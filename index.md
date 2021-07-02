@@ -8,6 +8,8 @@ My project is a RC car that doesn't hit obstacles.
 # Second Milestone
 My second milestone was to get the obstacle avoidance working. I made a simple program that would move forward if there was no obstacle in front of it, and if there was, it would turn to the righ. The main issue I ran into was that it would not detect obstacles that didn't touch the ground but were just above the ultrasonic. Other than that, it worked flawlessly, even with thin obstacles. 
 
+[![Milestone 2](https://res.cloudinary.com/marcomontalbano/image/upload/v1625244690/video_to_markdown/images/youtube--ZUHUf0RwTek-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=ZUHUf0RwTek "Second Milestone"){:target="_blank" rel="noopener"}
+
 # First Milestone
 
 
