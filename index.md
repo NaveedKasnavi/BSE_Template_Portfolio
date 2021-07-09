@@ -135,3 +135,9 @@ My first milestone was getting the ultrasonic sensor working and allowing it to 
 
 ![Circuit](https://user-images.githubusercontent.com/86121861/123466858-b1d7e100-d5a4-11eb-8ac4-753f93b7f290.JPG)
 
+Cad: 
+
+![PotentiometerHandleDrawing](https://user-images.githubusercontent.com/86121861/125118957-46623900-e0a5-11eb-910a-2b6510d49ade.JPG)
+
+![PotentiometerMountDrawing](https://user-images.githubusercontent.com/86121861/125118975-4c581a00-e0a5-11eb-855a-7c3b93d4c96f.JPG)
+
