@@ -8,6 +8,8 @@ My project is a RC car that doesn't hit obstacles.
 # Third Milestone
 My third milestone was to make a custom controller to control the car. I used Kevin Miller's library to send data between two ESPs, but it didn't work at first because I forgot to get the mac address of each ESP. When I got it working, I plugged in two potentiometers, one for throttle, and one for turning, and sent data from the controller ESP to the car ESP. I also 3d printed a custom case for the controller to house the ESP and potentiometer. 
 
+[![Milestone 3](https://res.cloudinary.com/marcomontalbano/image/upload/v1626926754/video_to_markdown/images/youtube---1FtQ3vBvkw-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=-1FtQ3vBvkw "Milestone 3")
+
 # Second Milestone
 My second milestone was to get the obstacle avoidance working. I made a simple program that would move forward if there was no obstacle in front of it, and if there was, it would turn to the right. The main issue I ran into was that it would not detect obstacles that didn't touch the ground but were just above the ultrasonic. Other than that, it worked flawlessly, even with thin obstacles. I also switched from the Arduino to the ESP32, which has an integrated bluetooth module and created an app on a phone to control the car. 
 
