@@ -5,6 +5,9 @@ My project is a RC car that doesn't hit obstacles.
 |:--:|:--:|:--:|:--:|
 | Naveed K | Saratoga High School | Electrical Engineering | Incoming Sophomore
 
+# Fourth Milestone
+My fourth milestone was the modify the car chassis to have axle steering instead of tank steering and have the controller be able to drive the car around while not hitting obstacles. The regular arduino servo wasn't strong enough, so I got a 20kg servo for the steering. To turn the wheels, I 3d printed a ball joint, which would connect to the servo. I used a ball joint because the lever moves horizontally, so if i hadn't used a ball joint it would've bent and either would cause a lot of friction or would break. 
+
 # Third Milestone
 My third milestone was to make a custom controller to control the car. I used Kevin Miller's library to send data between two ESPs, but it didn't work at first because I forgot to get the mac address of each ESP. When I got it working, I plugged in two potentiometers, one for throttle, and one for turning, and sent data from the controller ESP to the car ESP. I also 3d printed a custom case for the controller to house the ESP and potentiometer. 
 
@@ -21,6 +24,8 @@ My second milestone was to get the obstacle avoidance working. I made a simple p
 My first milestone was getting the ultrasonic sensor working and allowing it to detect any obstacle, even if it was thin. To do so, I mounted it on a servo with 3d printed parts that were secure enough so it wouldn't move even though it was secured with tape. I also assembled the chassis and got all the electronics wired up, including the motor driver and all 4 motors. I also made a test program where the robot would only move if there was no obstacle in front of it.
 
 [![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1624639229/video_to_markdown/images/youtube--BcDiVngkLWw-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=BcDiVngkLWw "First Milestone"){:target="_blank" rel="noopener"}
+
+# Reflection
 
 # Final Code
 <pre>
