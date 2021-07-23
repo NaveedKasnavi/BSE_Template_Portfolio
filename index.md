@@ -148,9 +148,11 @@ My first milestone was getting the ultrasonic sensor working and allowing it to 
 Cad: 
 
 Car:
+
 ![FinalCar](https://user-images.githubusercontent.com/86121861/126816882-64669478-cf40-4221-8b0d-7a2c16caa94e.JPG)
 
 Controller:
+
 ![FinalController](https://user-images.githubusercontent.com/86121861/126816888-9a50bae6-3377-4a0b-aeb5-4f9702541da8.JPG)
 
 Controller Circuit:
