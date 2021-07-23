@@ -145,16 +145,18 @@ My first milestone was getting the ultrasonic sensor working and allowing it to 
 
 ![Circuit](https://user-images.githubusercontent.com/86121861/123466858-b1d7e100-d5a4-11eb-8ac4-753f93b7f290.JPG)
 
-Cad: 
-
-Car:
+# Car CAD:
 
 ![FinalCar](https://user-images.githubusercontent.com/86121861/126816882-64669478-cf40-4221-8b0d-7a2c16caa94e.JPG)
 
-Controller:
+# Controller CAD:
 
 ![FinalController](https://user-images.githubusercontent.com/86121861/126816888-9a50bae6-3377-4a0b-aeb5-4f9702541da8.JPG)
 
-Controller Circuit:
+# Car Circuit
+
+![FinalCarCircuit](https://user-images.githubusercontent.com/86121861/126817326-ca6445fa-2779-45ab-90c8-82d586135cbf.JPG)
+
+# Controller Circuit:
 
 ![ControllerCircuit](https://user-images.githubusercontent.com/86121861/125980689-f67db829-a23b-4494-806a-ef16efa7f483.JPG)
