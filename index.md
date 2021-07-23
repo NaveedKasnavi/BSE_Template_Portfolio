@@ -143,8 +143,6 @@ My first milestone was getting the ultrasonic sensor working and allowing it to 
 
 </pre>
 
-![Circuit](https://user-images.githubusercontent.com/86121861/123466858-b1d7e100-d5a4-11eb-8ac4-753f93b7f290.JPG)
-
 # Car CAD:
 
 ![FinalCar](https://user-images.githubusercontent.com/86121861/126816882-64669478-cf40-4221-8b0d-7a2c16caa94e.JPG)
